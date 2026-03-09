@@ -1,0 +1,15 @@
+my computer = IP: 192.168.1.134; Times: 1m, 1m, 1m, 1m
+
+f-l3208-pc01 = IP: 212.128.255.129; Times: 0.066ms, 0.063ms, 0.063ms, 0,069ms
+
+Google = IP: 8.8.8.8; Times: 14ms, 13ms, 15ms, 15ms
+
+Mobile = IP: 192.168.1.136; Times: 48ms, 35ms, 51ms, 6ms
+
+www.urjc.es = IP: 212.128.240.50; Times: 1.70ms, 1.82ms, 1.73ms, 1.86ms
+
+github.com = IP: 140.82.121.3; Times: 39ms, 41ms, 42ms
+
+wikipedia.org = IP: 185.15.58.224; Times: 16.3ms, 16.6ms, 17.0ms, 16.9ms
+
+newdomain.com.au = IP: 172.67.160.238; Times: 3.05ms, 3.43ms, 2.97ms, 3,23ms
