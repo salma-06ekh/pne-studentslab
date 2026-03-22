@@ -1,0 +1,3 @@
+Try to connect from the Browser. What happens? Could you see the web page? (is the page green?)
+When opeening the page in the browser, the page is not green. The browser shows the HTML code as
+plain because the content type is text/plain not text/html.
